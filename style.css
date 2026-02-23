@@ -23,8 +23,7 @@ h1 {
   background: #eef5ff;
   padding: 15px;
   border-radius: 8px;
-  margin: 0 auto 25px auto;
-  width: 80%;
+  margin-bottom: 25px;
 }
 
 .donation-summary {
