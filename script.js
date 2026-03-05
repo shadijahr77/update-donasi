@@ -3,7 +3,8 @@ const targetDonasi = 3000000;
 // edit donasi cuy
 const donasiMasuk = [
   { nama: "orang sugeh", jumlah: 1000},
-  { nama: "orang", jumlah: 300000}
+  { nama: "orang", jumlah: 300000},
+  { nama: "orang", jumlah: 500000}
 ];
 
 let total = 0;
