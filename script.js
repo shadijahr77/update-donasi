@@ -6,6 +6,7 @@ const donasiMasuk = [
   { nama: "Muslim Family", jumlah: 300000},
   { nama: "Muslim Family", jumlah: 500000},
   { nama: "Hamba Allah", jumlah: 500000},
+  { nama: "Hamba Allah masuk surga Aamiin", jumlah: 200000},
   { nama: "Hamba Allah masuk surga Aamiin", jumlah: 200000}
 ];
 
