@@ -8,7 +8,8 @@ const donasiMasuk = [
   { nama: "Hamba Allah", jumlah: 500000},
   { nama: "Hamba Allah masuk surga Aamiin", jumlah: 200000},
   { nama: "Hamba Allah masuk surga Aamiin", jumlah: 200000},
-  { nama: "Hamba Allah", jumlah: 200000}
+  { nama: "Hamba Allah", jumlah: 200000},
+  { nama: "Hamba Allah", jumlah: 100000}
 ];
 
 let total = 0;
