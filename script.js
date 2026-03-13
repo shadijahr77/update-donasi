@@ -9,6 +9,11 @@ const donasiMasuk = [
   { nama: "Hamba Allah masuk surga Aamiin", jumlah: 200000},
   { nama: "Hamba Allah masuk surga Aamiin", jumlah: 200000},
   { nama: "Hamba Allah", jumlah: 200000},
+  { nama: "Hamba Allah", jumlah: 100000},
+  { nama: "Hamba Allah", jumlah: 100000},
+  { nama: "Hamba Allah", jumlah: 100000},
+  { nama: "Hamba Allah", jumlah: 150000},
+  { nama: "Hamba Allah", jumlah: 100000},
   { nama: "Hamba Allah", jumlah: 100000}
 ];
 
