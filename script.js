@@ -10,11 +10,11 @@ const donasiMasuk = [
   { nama: "Hamba Allah masuk surga Aamiin", jumlah: 200000},
   { nama: "Hamba Allah", jumlah: 200000},
   { nama: "Hamba Allah", jumlah: 100000},
-  { nama: "Hamba Allah", jumlah: 100000},
-  { nama: "Hamba Allah", jumlah: 100000},
-  { nama: "Hamba Allah", jumlah: 150000},
-  { nama: "Hamba Allah", jumlah: 100000},
-  { nama: "Hamba Allah", jumlah: 100000}
+  { nama: "Anim Falakhudin", jumlah: 100000},
+  { nama: "M Wahyuddin Masdinh", jumlah: 100000},
+  { nama: "Ikbar Luqyana", jumlah: 150000},
+  { nama: "Ryahdiramadani", jumlah: 100000},
+  { nama: "Maulana Abdul Azis", jumlah: 100000}
 ];
 
 let total = 0;
