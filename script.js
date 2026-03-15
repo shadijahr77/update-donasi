@@ -15,6 +15,7 @@ const donasiMasuk = [
   { nama: "Ikbar Luqyana", jumlah: 150000},
   { nama: "Ryahdiramadani", jumlah: 100000},
   { nama: "Maulana Abdul Azis", jumlah: 100000}
+  { nama: "Sukirno", jumlah: 250000}
 ];
 
 let total = 0;
